@@ -1,2 +1,5 @@
 This is my first file
 and it has a second line.
+and now line 3
+and line 4
+do you see the diff
